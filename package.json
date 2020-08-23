@@ -1,0 +1,15 @@
+{
+  "name": "btclient2",
+  "version": "1.0.0",
+  "description": "bitorrent client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "jason d'souza",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "bignum": "^0.13.1"
+  }
+}
